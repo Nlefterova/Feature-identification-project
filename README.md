@@ -2,6 +2,7 @@
 git add myfile
 git commit -m "test"
 
+# DOWNLOADING ALL TEXTS 
 ! mkdir fanfics_orig
 
 # https://archiveofourown.org/collections/GeluhsTolkienFicRecs
